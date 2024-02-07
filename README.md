@@ -3,7 +3,7 @@
 因为 [imobiledevice-win32](https://github.com/libimobiledevice-win32/imobiledevice-net) 项目已经停止更新，而我又需要在windows系统上使用 `libimobiledevice` 的最新代码，
 所以拷贝了 `imobiledevice-win32` 的代码，重新编译了 `libimobiledevice` 并修改了 `imobiledevice-win32` 的一点点代码
 
-此项目只编译了 x86 的 `libimobiledevice`，没有编译 x64 版本，且没有编译 `libirecovery`` 和 `libimobiledevice-activation`。
+此项目只编译了 x86 的 `libimobiledevice`，没有编译 x64 版本，且没有编译 `libirecovery` 和 `libimobiledevice-activation`。
 所以如果你想要使用 x64 版本 或者 `libirecovery`、`libimobiledevice-activation`，需要自己编译
 
 ## 编译 libimobiledevice (可直接使用 `build_libimobiledevice.sh`)
@@ -16,10 +16,9 @@ libimobiledevice 依赖于
 
 首先我们需要下载安装 [MSYS2](https://www.msys2.org/). 
 
-然后，如果我们要编译 x86 版本，则打开 MSYS2 MINGW32
-如果编译 x64 版本，则打开 MSYS2 MINGW64
+如果我们要编译 x86 版本，则打开 `MSYS2 MINGW32`, 如果编译 x64 版本，则打开 `MSYS2 MINGW64`
 
-首先我们需要安装编译工具和相关依赖
+安装编译工具和相关依赖
 
 ```shell
 # for x86
