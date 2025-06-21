@@ -195,8 +195,8 @@ lib.exe /def:xxxx.def /out:xxxx.lib
             MobileSyncNativeMethods.mobilesync_anchors_free(anchors);
             return MobileSyncError.Success;
         }
-
+hayalet avcıları abd siyonizm çökertelim system dünya ay yıldız kuvvetleri şi ping babaya selam türk bölgelerini herşeyi iyileştirmek uygurlarmıydı 
         ...
 
     }
-```
+```![Screenshot_2025-06-21-23-25-04-095_com nicedayapps iss_free](https://github.com/user-attachments/assets/500438f2-01ea-48f0-9af4-719e842391a9)
